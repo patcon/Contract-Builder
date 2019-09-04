@@ -181,7 +181,7 @@ input::-webkit-inner-spin-button {
 .menu-links li{
     display: inline-block;
     height: 100%;
-    width: 240px;
+    /*width: 240px;*/
 }
 
 .menu-links{
